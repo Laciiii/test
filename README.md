@@ -20,12 +20,17 @@ Der Kahoot Code wird in der LabSession generiert.
 ### Spiel
 Wir möchten ein kleines Spiel in Blend4web erstellen, um die Funktionalität darzustellen. 
 
-
 Vorbereitung: 
 - Öffne Blender 
 - Öffne einen TextEditor deiner Wahl (Notepad++, Visual Studio Code, etc.)
 
-
+Taks: 
+- Blender Szene erstellen 
+- Blend4web Projekt mit Hilfe des Projektmanagers erstellen 
+- Text ausgabe 
+- "Player" scripten 
+- "Bälle" scripten
+- Spiel Logik 
 
 ### Blender 
 
